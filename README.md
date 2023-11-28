@@ -18,7 +18,7 @@ This repository hosts the code for the MF-PIGANs framework developed in our pape
 
 
 ## Citation
-If you use this code or adapt the MF-PIGAN framework in your work, please cite our paper. The paper can be accessed [here](https://www.researchgate.net/publication/371340182_IMPROVING_ACCURACY_AND_COMPUTATIONAL_EFFICIENCY_OF_OPTIMAL_DESIGN_OF_EXPERIMENTS_VIA_GREEDY_BACKWARD_APPROACH):
+If you use this code or adapt the MF-PIGAN framework in your work, please cite our paper. The paper can be accessed [here](https://www.researchgate.net/publication/375416132_Multi-fidelity_Physics-informed_Generative_Adversarial_Network_for_Solving_Partial_Differential_Equations):
 
 Taghizadeh, M., Nabian, M. A., & Alemazkoor, N. (2023). Multi-fidelity Physics-informed Generative Adversarial Network for Solving Partial Differential Equations. Journal of Computing and Information Science in Engineering. DOI: 10.1115/1.4063986
 
