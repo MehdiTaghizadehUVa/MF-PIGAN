@@ -10,11 +10,9 @@ This repository hosts the code for the MF-PIGANs framework developed in our pape
 - **Innovative Architecture:** Our MF-PIGAN framework uniquely guides the learning of both the generator and discriminator models with physics, enhancing stability and realism.
 
 ## Repository Structure
-- `src/`: Source code of the MF-PIGAN framework.
+- `scripts/`: Source code of the MF-PIGAN framework.
 - `examples/`: Example implementations demonstrating the use of MF-PIGANs in solving different PDEs, including Burgers' Equation and Wave Equation.
-- `data/`: Sample datasets used for training and testing the models.
-- `docs/`: Documentation and additional resources.
-- `LICENSE`: Licensing information.
+- `dataset/`: Sample datasets used for training and testing the models.
 
 
 ## Citation
@@ -23,4 +21,4 @@ If you use this code or adapt the MF-PIGAN framework in your work, please cite o
 Taghizadeh, M., Nabian, M. A., & Alemazkoor, N. (2023). Multi-fidelity Physics-informed Generative Adversarial Network for Solving Partial Differential Equations. Journal of Computing and Information Science in Engineering. DOI: 10.1115/1.4063986
 
 ## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the MIT License.
