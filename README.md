@@ -10,8 +10,8 @@ This repository hosts the code for the MF-PIGANs framework developed in our pape
 - **Innovative Architecture:** Our MF-PIGAN framework uniquely guides the learning of both the generator and discriminator models with physics, enhancing stability and realism.
 
 ## Repository Structure
-- `scripts/`: Source code of the MF-PIGAN framework.
-- `examples/`: Example implementations demonstrating the use of MF-PIGANs in solving different PDEs, including Burgers' Equation and Wave Equation.
+- `Scripts/`: Source code of the MF-PIGAN framework.
+- `Examples/`: Example implementations demonstrating the use of MF-PIGANs in solving different PDEs, including Burgers' Equation and Wave Equation.
 - `dataset/`: Sample datasets used for training and testing the models.
 
 
